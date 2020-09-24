@@ -31,11 +31,11 @@ path = "../../core"
 default-features = false
 
 [dependencies.serde]
-version = "1.0.2"
+version = "1.0.111"
 optional = true
 
 [dependencies.serde_derive]
-version = "1.0.2"
+version = "1.0.111"
 optional = true
 
 [dev-dependencies]
